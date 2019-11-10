@@ -8,6 +8,6 @@
 
 # ESPAÑOL
 
-# El propósito de este código es hacer una ANOVA y un Tukey de un set de datos definido por el usuario. Es importante saber que debes guardar el set de datos en codificación ANSI. Además, tienes que usar un archivo .csv o .txt.
+# El propósito de este código es hacer una ANOVA y un Tukey en un set de datos definido por el usuario. Es importante saber que debes guardar el set de datos en codificación ANSI. Además, tienes que usar un archivo .csv o .txt.
 
 # Esta es una primera versión de este script por lo que debo crear más características, como la validación del modelo. Me gustaría mejorar la generación de gráficos con ggplot2 en el futuro.
